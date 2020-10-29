@@ -14,6 +14,7 @@ The model is used to predict sentiment analysis of tweets and classify them into
 
 The process includes a series of steps of data cleaning , preprocessing, integrating, data visualizing, feature extracting , model fitting, predicting and comparison.
 
+.....
 
 reference project:  https://towardsdatascience.com/social-media-sentiment-analysis-49b395771197 and 
                     https://towardsdatascience.com/social-media-sentiment-analysis-part-ii-bcacca5aaa39 .
